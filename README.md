@@ -1,6 +1,5 @@
 <h1 align="center">LLM Chat</h1>
 <h4 align="center">
-	CS563(Neural Networks For NLP) Course Project
 </h4>
 
 ## About
